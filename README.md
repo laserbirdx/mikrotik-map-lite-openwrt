@@ -2,6 +2,8 @@
 
 # OpenWrt on MikroTik mAP lite (RBmAPL-2nD)
 
+![OpenWrt: 25.12.6 (ath79/mikrotik)](https://img.shields.io/badge/OpenWrt-25.12.6%20(ath79%2Fmikrotik)-00B5E2?logo=openwrt&logoColor=white) ![SoC: Qualcomm QCA9533](https://img.shields.io/badge/SoC-Qualcomm%20QCA9533-3253DC?logo=qualcomm&logoColor=white) ![install: Netboot (No Disassembly)](https://img.shields.io/badge/install-Netboot%20(No%20Disassembly)-brightgreen) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+
 Installation guide for official OpenWrt 25.12.6 on the MikroTik RouterBOARD mAP lite
 (`RBmAPL-2nD`, Qualcomm Atheros QCA9533, 64 MiB RAM, 16 MiB SPI-NOR flash). OpenWrt is
 loaded into RAM over Ethernet via RouterBOOT netboot (BOOTP + TFTP) and then written to
